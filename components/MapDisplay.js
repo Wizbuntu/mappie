@@ -9,8 +9,8 @@ import 'leaflet/dist/leaflet.css';
 import PureModal from 'react-pure-modal';
 import 'react-pure-modal/dist/react-pure-modal.min.css'
 
-// commaNumber
-import commaNumber from 'comma-number'
+// // commaNumber
+// import commaNumber from 'comma-number'
 
 // div icon 
 import L from 'leaflet'
