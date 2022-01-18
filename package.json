@@ -9,12 +9,15 @@
     "export": "next export"
   },
   "dependencies": {
+    "axios": "^0.25.0",
     "comma-number": "^2.1.0",
     "leaflet": "^1.7.1",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-leaflet": "^3.2.2"
+    "react-leaflet": "^3.2.2",
+    "react-pure-modal": "^2.1.0",
+    "swr": "^1.1.2"
   },
   "devDependencies": {
     "eslint": "8.6.0",
